@@ -19,5 +19,5 @@ A simple **BMI (Body Mass Index) Calculator** that checks user input for **heigh
    - Calculate and display the BMI with a health status message.
    - Show an error message if the input is invalid.
 
-## Usage
+## Contributions
 Feel free to make contributions !!
